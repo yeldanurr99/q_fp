@@ -1,0 +1,46 @@
+{
+  "name": "formyfi",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@dfinity/agent": "^1.0.0",
+    "@dfinity/assets": "^1.0.0",
+    "@dfinity/auth-client": "^1.0.0",
+    "@dfinity/candid": "^1.0.0",
+    "@dfinity/identity": "^1.0.0",
+    "@dfinity/principal": "^1.0.0",
+    "@mobiscroll/javascript": "^5.22.2",
+    "@vueup/vue-quill": "^1.1.1",
+    "dotenv": "^16.3.1",
+    "element-plus": "^2.3.4",
+    "html2pdf.js": "^0.10.1",
+    "localforage": "^1.10.0",
+    "luxon": "^3.4.4",
+    "pinia": "^2.1.7",
+    "rxjs": "^7.8.1",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "vue": "^3.2.37",
+    "vue-draggable-next": "^2.2.1",
+    "vue-icomoon": "^0.6.1",
+    "vue-load-image": "^1.1.0",
+    "vue-router": "^4.0.13",
+    "vue3-google-login": "^2.0.25",
+    "vuedraggable": "^2.24.3",
+    "web3": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "@vue/compiler-sfc": "^3.2.37",
+    "autoprefixer": "^10.4.16",
+    "buffer": "^6.0.3",
+    "postcss": "^8.4.33",
+    "prettier": "3.1.1",
+    "tailwindcss": "^3.4.1",
+    "vite": "^2.9.13"
+  }
+}
