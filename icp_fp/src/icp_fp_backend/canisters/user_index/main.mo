@@ -5,7 +5,6 @@ import Principal "mo:base/Principal";
 import Buffer "mo:base/Buffer";
 import Iter "mo:base/Iter";
 import Error "mo:base/Error";
-import Utils "utils";
 
 actor UserIndex {
   type UserData = {
